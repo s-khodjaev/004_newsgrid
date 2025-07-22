@@ -1,0 +1,11 @@
+## NewsGrid Website
+
+![image](https://private-user-images.githubusercontent.com/109642388/469012683-6b60fd59-08f7-4f4e-b7db-5ac558c26962.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMxNjY1MjAsIm5iZiI6MTc1MzE2NjIyMCwicGF0aCI6Ii8xMDk2NDIzODgvNDY5MDEyNjgzLTZiNjBmZDU5LTA4ZjctNGY0ZS1iN2RiLTVhYzU1OGMyNjk2Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyMlQwNjM3MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YTc2YzM2Y2Q4MDUyMWE3ZDA2ZDVlYTU0YmUwYTU3ZTI1MDE4MWQwMTdlZjRkY2U5NDY5Y2RkYjRkY2ViNDBlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.N9AKltfPqpxQ_6bCUcGBnGy9do5tBgaGeutPtxTTY-k)
+
+This template is from [**Modern HTML & CSS from the beginning**](https://www.traversymedia.com/modern-html-css-from-the-beginning) course by _Brad Traversy_
+
+This templates includes the following features:
+  - use of CSS Grid
+  - pleasant and clean design
+  - use of font-awesome icons
+  - fully responsive
